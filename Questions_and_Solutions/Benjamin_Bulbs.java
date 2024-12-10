@@ -1,3 +1,4 @@
+package Questions_and_Solutions;
 import java.util.Scanner;
 
 public class Benjamin_Bulbs {
