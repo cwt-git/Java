@@ -1,4 +1,4 @@
-package While_loop;
+package Questions_and_Solutions;
 
 import java.util.Scanner;
 
